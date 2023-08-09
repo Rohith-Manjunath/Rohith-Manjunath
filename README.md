@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rohith Kira, a Full Stack Web Developer</h1>
+<h1 align="center">Hi 👋, I'm Rohith, a Full Stack Web Developer</h1>
 <h3 align="center">Passionate about crafting web experiences that leave an impact</h3>
 
 <h3 align="left">Connect with me:</h3>
