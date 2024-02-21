@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohith-manjunath&label=Profile%20views&color=0e75b6&style=flat" alt="rohith-manjunath" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohith-manjunath" alt="rohith-manjunath" /></a> </p>
-
 - 🔭 I’m currently working on [School Website](https://school-website-12.netlify.app)
 
 - 🌱 I’m currently learning **Next.js**
