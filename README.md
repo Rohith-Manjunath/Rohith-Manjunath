@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohith-manjunath&label=Profile%20views&color=0e75b6&style=flat" alt="rohith-manjunath" /> </p>
 
-- 🔭 I’m currently working on [School Website](https://school-website-12.netlify.app)
+- 🔭 I’m currently working on [School Website](https://www.mysoreinternationalschool.com/)
 
 - 🌱 I’m currently learning **Next.js**
 
