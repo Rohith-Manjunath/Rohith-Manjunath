@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [School Website](https://www.mysoreinternationalschool.com/)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at [https://rohith-manjunath-portfolio.netlify.app/](https://rohith-manjunath-portfolio.netlify.app/)
 
