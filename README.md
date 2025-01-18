@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohith-manjunath&label=Profile%20views&color=0e75b6&style=flat" alt="rohith-manjunath" /> </p>
 
-- 🔭 I’m currently working on [Explrar](https://www.explrar.com/)
+- 🔭 I’m currently working on [chaithanya tours and travels](https://www.chaithanyatoursandtravels.com/)
 
 - 🌱 I’m currently learning **DEVOPS**
 
